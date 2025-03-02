@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "tsc -w"
   },
+  "type": "module",
   "devDependencies": {
+    "chrome-types": "^0.1.337"
   }
 }

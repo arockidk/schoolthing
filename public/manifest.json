@@ -10,6 +10,10 @@
   },
   "permissions": [
     "storage",
-    "tabs"
+    "tabs",
+    "cookies"
+  ],
+  "host_permissions": [
+    "https://*/"
   ]
 }
